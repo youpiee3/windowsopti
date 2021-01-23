@@ -1,0 +1,14 @@
+@echo off
+cd C:\OptimisateurDeWindows\FichierSysteme
+start fonctionnement.vbs
+timeout 4
+start fop.cmd
+start demmarage.vbs
+timeout 6
+start installation.vbs
+timeout 5
+start 50.vbs
+timeout 5.5
+start 75.vbs
+timeout 10
+start explorer.exe

@@ -1,0 +1,5 @@
+msgbox "75 %"
+msgbox "80 %"
+msgbox "100 %"
+msgbox "Optimisation terminé , tu auras les résulatats dans un documents texte ."
+msgbox "Merci pour l'utilisation ! Ton bureau s'ouvrira dans quelques secondes ...."

@@ -1,0 +1,17 @@
+---------------->
+Creation De Doc Texte :
+il sert à utiliser 3 petits logiciels qui quand on les lances permettent de soit
+Creer un ficher.txt (Create.Texte.bat)
+Supprimer le fichier.txt (Del.Texte.cmd)
+Lancer le fichier.txt (StartDocumentTexte.cmd)
+---------------->
+WindowsOptimisateur :
+il optimise windows (supprime des fichiers innutiles , executer des commandes qui l'optimise etc)
+IMPORTANT.txt : ce fichier est EXTREMEMENT important a lire avant l'execution de ces logiciels.
+Optimiser.cmd : il sert a executer des commandes dans le but d'ameliorer windows
+SupLesFichiersInnutiles.cmd : il supprime tout les fichers innutiles (toujours le lancer en tant qu'administrateur , sinon il se peut qu'il reste ENORMEMENT de fichier innutiles)
+--------------->
+FichierSysteme :
+c'est des fichiers système (ils fonts fonctionner TOUT les logiciels .
+La suppresion d'un seul peux provoquer l'arret de plusieurs et donc les logiciels seront innutilisables
+--------------->

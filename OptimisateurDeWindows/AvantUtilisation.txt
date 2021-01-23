@@ -1,0 +1,5 @@
+Bonjour bienvenue sur l'optimisateur de windows .
+AVANT L'UTILISATION vous devez deplacer le dossier (OptimisateurDeWindows) dans le disque dur C:\
+car sinon les commandes ne peuvent êtres utilisées .
+L'optimisateur est un logiciel POUR L'INSTANT gratuit . Si il devient payants , vous l'aurez toujours (sauf désinstallation).
+Vous pouvez désormais utiliser l'optimisateur MAIS si vous ne savez pas à quoi sert une catégorie , allez sur le document texte Utilisation.txt
